@@ -63,9 +63,9 @@ namespace CompleteAssesment1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Angerpic {
+        internal static System.Drawing.Bitmap anger_pic {
             get {
-                object obj = ResourceManager.GetObject("Angerpic", resourceCulture);
+                object obj = ResourceManager.GetObject("anger pic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -76,6 +76,16 @@ namespace CompleteAssesment1.Properties {
         internal static System.IO.UnmanagedMemoryStream Gun_Shot {
             get {
                 return ResourceManager.GetStream("Gun Shot", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap guns {
+            get {
+                object obj = ResourceManager.GetObject("guns", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

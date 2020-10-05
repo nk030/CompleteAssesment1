@@ -45,5 +45,15 @@ namespace CompleteAssesment1
         {
             return ToString();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Logic.button1();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Logic.button2();
+        }
     }
 }

@@ -90,5 +90,14 @@
   <ItemGroup>
     <None Include="Resources\GUN_FIRE-GoodSoundForYou-820112263.wav" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden_temple_amritsar_punjab_india-HD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anger pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guns.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
