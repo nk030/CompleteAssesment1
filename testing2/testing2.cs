@@ -10,8 +10,8 @@ namespace Assignment1.Test
         [TestMethod]
         public void ShootAway()
         {
-            int testint = Logic.Shootaway();
-            Assert.IsTrue();
+            
+            Assert.Fail();
         }
         private int ShootAway()
         {

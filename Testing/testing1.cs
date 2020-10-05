@@ -11,8 +11,8 @@ namespace/* Assignment1.Test*/
         [TestMethod]
         public void SpinTesting()
         {
-            int testint = Logic.button1();
-            Assert.IsTrue();
+            
+            Assert.Fail();
         }
 
         private int button1()
